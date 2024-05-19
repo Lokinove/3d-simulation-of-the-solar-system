@@ -1,0 +1,1 @@
+A 3D simulation of our solar system, designed to visually represent the planets orbiting the Sun in three dimensions. It allows users to explore the positions, movements, and possibly other characteristics (such as planet sizes or orbits) of the planets within our solar system, providing an interactive experience that enhances people’s understanding of astronomical concepts. 
